@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Outer Shield Contour -->
+    <path
+        android:fillColor="#2563EB"
+        android:pathData="M54,26 C66,26 76,29 76,29 C76,46 71,67 54,78 C37,67 32,46 32,29 C32,29 42,26 54,26 Z" />
+    
+    <!-- Shield Inner Accent -->
+    <path
+        android:fillColor="#3B82F6"
+        android:pathData="M54,30 C63,30 72,32.5 72,32.5 C72,46.5 67.5,63.5 54,73 C40.5,63.5 36,46.5 36,32.5 C36,32.5 45,30 54,30 Z" />
+
+    <!-- Camera Body inside Shield -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M44,43 L46,40 H52 L54,43 H64 C65.1,43 66,43.9 66,45 V61 C66,62.1 65.1,63 64,63 H44 C42.9,63 42,62.1 42,61 V45 C42,43.9 42.9,43 44,43 Z" />
+
+    <!-- Camera Lens outer ring -->
+    <path
+        android:fillColor="#1E293B"
+        android:pathData="M54,53m-6.5,0a6.5,6.5 0 1,1 13,0a6.5,6.5 0 1,1 -13,0" />
+
+    <!-- Lens Center Aperture -->
+    <path
+        android:fillColor="#60A5FA"
+        android:pathData="M54,53m-3.5,0a3.5,3.5 0 1,1 7,0a3.5,3.5 0 1,1 -7,0" />
+
+    <!-- Shutter flash indicator dot -->
+    <path
+        android:fillColor="#93C5FD"
+        android:pathData="M61.5,46.5m-1.2,0a1.2,1.2 0 1,1 2.4,0a1.2,1.2 0 1,1 -2.4,0" />
+
+    <!-- Small Lock / Checkmark badge bottom right of shield -->
+    <path
+        android:fillColor="#10B981"
+        android:pathData="M65,65m-6,0a6,6 0 1,1 12,0a6,6 0 1,1 -12,0" />
+    <!-- Lock Hook & body -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M65,62 C64,62 63.2,62.8 63.2,63.8 V64.5 H62.5 C62.2,64.5 62,64.7 62,65 V67.5 C62,67.8 62.2,68 62.5,68 H67.5 C67.8,68 68,67.8 68,67.5 V65 C68,64.7 67.8,64.5 67.5,64.5 H66.8 V63.8 C66.8,62.8 66,62 65,62 Z M65.8,64.5 H64.2 V63.8 C64.2,63.4 64.6,63 65,63 C65.4,63 65.8,63.4 65.8,63.8 V64.5 Z" />
+</vector>

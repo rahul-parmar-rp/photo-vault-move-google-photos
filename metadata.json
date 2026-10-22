@@ -1,0 +1,6 @@
+{
+  "name": "PhotoVault Auto-Move",
+  "description": "Auto-move photos and screenshots into organized local folders to prevent sync.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
